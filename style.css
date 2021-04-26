@@ -1,0 +1,15 @@
+html {
+  margin: 0;
+  padding: 0;
+  width : 100%;
+  height : 100%;
+  background: linear-gradient(to bottom right,#8931EF,#F2CA19,#FF00BD,#0057E9,#87E911,#E11845);
+
+}
+canvas{
+  display: block;
+  border: 9px solid black;
+  margin-top:80px;
+  margin-left: 165px;
+}
+
